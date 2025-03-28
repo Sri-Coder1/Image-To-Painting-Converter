@@ -1,4 +1,4 @@
-import cv2  #install opencv-python
+import cv2  #install opencv-python through terminal
 import time
 import os
 import win32gui  # type: ignore
