@@ -62,7 +62,7 @@ def cctv():
     except Exception as e:
         print(f"Error: {e}")
 
-# Input section
+# Input section.
 if __name__ == "__main__":
     print("************ Welcome to CCTV Software ************")
     cctv()  # Start the CCTV system
